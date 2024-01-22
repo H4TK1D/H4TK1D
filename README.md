@@ -1,5 +1,5 @@
 # 💫 About Me:
-˗ˏˋ☕ˎˊ˗  I’m currently working on random private code
+˗ˏˋ☕ˎˊ˗  I'm currently working on a completely normal minecraft mod for Java 1.18.2 (and random private code)
 
 
 # 💻 Tech Stack:
