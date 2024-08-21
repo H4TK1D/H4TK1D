@@ -1,6 +1,6 @@
 # 💫 About Me:
-˗ˏˋ☕ˎˊ˗  I'm currently working on a completely normal minecraft mod for Java 1.18.2 (and random private code)\
-⋆｡°•☁️ Stay tuned for updates :3\
+˗ˏˋ☕ˎˊ˗  I mainly create hobby projects that I can't seem to finish\
+
 [Profile Picture by @sa_ka_na_4](https://www.instagram.com/sa_ka_na_4/p/CrwLa-sq3Sw/)
 
 # 💻 Tech Stack:
