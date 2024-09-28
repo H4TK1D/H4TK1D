@@ -1,5 +1,5 @@
 # 💫 About Me:
-˗ˏˋ☕ˎˊ˗  I mainly create hobby projects that I can't seem to finish
+˗ˏˋ☕ˎˊ˗  I mainly create hobby projects that I can't seem to finish /
 ˗ˏˋ📧ˎˊ˗  Contact me on discord: h4t_k1d
    
 # 💻 Tech Stack:
