@@ -1,7 +1,7 @@
 # 💫 About Me:
 ˗ˏˋ☕ˎˊ˗  I mainly create hobby projects\
 ˗ˏˋ📓ˎˊ˗  Studying Computer Science and Mathematics\
-˗ˏˋ📧ˎˊ˗  Contact me on discord: h4t_k1d
+˗ˏˋ📧ˎˊ˗  Contact me on discord: h4t_k1d\
 ˗ˏˋ📷ˎˊ˗ [Profile picture by @Typh](https://x.com/crispytyph)
    
 # 💻 Tech Stack:
